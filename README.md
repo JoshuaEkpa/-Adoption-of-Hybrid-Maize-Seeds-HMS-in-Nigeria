@@ -107,12 +107,18 @@ FORECASTING TREND VALUES OF ADOPTION FOR HMS IN NIGERIA
 
 ______________________________________________________________________________________________________________________________ 
 
-Exploring The World Of Data For Impactful and Actionable Insight 
+Exploring The World Of Data to Deliver Impactful and Actionable Insight 
 <img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/8fe5a175-13b3-468d-b51f-1e6e61338b6d" />
 
 ______________________________________________________________________________________________________________________________ 
 
-
+👤 Author
+Joshua Ekpah
+Data Analyst | Excel | Power BI | SQL | Business Intelligence
+📬 Contact: +234 816 778 7222
+📧 Email: joshuaekpa5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
+🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa
 
 
 
