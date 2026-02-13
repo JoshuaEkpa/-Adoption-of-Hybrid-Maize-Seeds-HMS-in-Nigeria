@@ -100,7 +100,7 @@ ________________________________________________________________________________
 DASHBOARD SHOWING ADOPTION OF HYBRID MAIZE SEEDS (SEEDS) IN NIGERIA 
 <img width="975" height="420" alt="image" src="https://github.com/user-attachments/assets/b639f85b-5cf8-400a-bad1-45483a62d1bb" />
 
-______________________________________________________________________________________________________________________________ 
+_________________________________________________________________________________________________________________________-_____ 
 
 FORECASTING TREND VALUES OF ADOPTION FOR HMS IN NIGERIA 
 <img width="975" height="595" alt="image" src="https://github.com/user-attachments/assets/c6e57744-ef38-4b41-a7ae-44e1c1761a2d" />
